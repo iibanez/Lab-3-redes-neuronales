@@ -1,0 +1,17 @@
+Subject	Number
+AN	1
+DY	2
+EC	3
+GB	4
+H2	5
+AM	6
+JG	7
+JN	8
+MS	9
+PB	10
+PH	11
+RP	12
+SB	13
+SH	14
+TJ	15
+VH	16
